@@ -1,4 +1,13 @@
-## Hi there 👋
+## NOSSA MEU NOME É DAVI QUE LEGAL MDS :0000000000000
+
+## Atualmente estou em 2 projetos 
+### 1. XG7Plugins
+### 2. fuzy
+
+
+Linguagens
+
+Java, kotlin, python, lua, c++, php, html, css, js
 
 <!--
 **DaviXG7/DaviXG7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
