@@ -22,7 +22,7 @@ Brithday: 04/26
 
 ## See some of my projects:
 
-- 📫 [XG7Plugins](https://github.com/XG7Plugins/XG7Pluins) - Core for all XG7Plugins
+- 📫 [XG7Plugins](https://github.com/XG7Plugins/XG7Plugins) - Core for all XG7Plugins
 - 📫 [XG7Lobby](https://github.com/XG7Plugins/XG7Lobby) - Best Lobby/Hub plugin for your Minecraft server
 - 📫 [xg7plugins.com](https://xg7plugins.com) - Website of XG7Plugins
 
