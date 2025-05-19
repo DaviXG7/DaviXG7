@@ -10,7 +10,9 @@ I'm a passionate developer. I love programming, especially Java :3.
 
 I'm 15 years old and my focus is to study as much as possible until I can get into college and start working :D.
 
-Brithday: 04/26
+Brith: 04/26/2010
+
+Studying programming since 2022
 
 - 🔭 Currently working on XG7Plugins
 - 🌱 Learning about how to progress...
