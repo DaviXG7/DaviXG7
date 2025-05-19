@@ -24,7 +24,7 @@ Brithday: 04/26
 
 - 📫 [XG7Plugins](https://github.com/XG7Plugins/XG7Plugins) - Core for all XG7Plugins
 - 📫 [XG7Lobby](https://github.com/XG7Plugins/XG7Lobby) - Best Lobby/Hub plugin for your Minecraft server
-- 📫 [xg7plugins.com](https://xg7plugins.com) - Website of XG7Plugins
+- 📫 [xg7plugins.com](https://xg7plugins.com) - Website of XG7Plugins (Currently unavailable)
 
 ---
 
