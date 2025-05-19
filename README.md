@@ -2,7 +2,7 @@
 
 ## Atualmente estou em 2 projetos 
 ### 1. XG7Plugins
-### 2. (A)
+### 2. Fuzy
 
 
 Linguagens
