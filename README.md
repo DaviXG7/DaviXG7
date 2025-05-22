@@ -75,4 +75,4 @@ Studying programming since 2022
 ## ✉️ Contact Me
 
 - 🧠 Discord: `davixg7`
-- 📫 Email: `davi.fernanmes.andrade7@gmail.com`
+- 📫 Email: `davi.fernandes.andrade7@gmail.com`
