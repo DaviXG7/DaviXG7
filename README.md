@@ -1,6 +1,6 @@
 <!-- Header with a tagline -->
 <h1 align="center">Hey there! 👋 I'm DaviXG7</h1>
-<p align="center">💻 FullStack Developer | JAVA ❤️☕ | Clean Code Enthusiast | Minecraft Plugin Creator</p>
+<p align="center">💻 FullStack Developer | JAVA ❤️☕ | Clean Code Enthusiast | Minecraft Plugin Developer</p>
 
 ---
 
