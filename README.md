@@ -14,7 +14,7 @@ Brith: 04/26/2010
 
 Studying programming since 2022
 
-- 🔭 Currently working on XG7Plugins
+- 🔭 Currently working on XG7Plugins and roblox game development
 - 🌱 Learning about how to progress...
 - 💬 Ask me about Java, TypeScript, Redis, SQL...
 - 🟢 I'm Brazilian :3
