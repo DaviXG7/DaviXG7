@@ -8,7 +8,7 @@
 
 I'm a passionate developer. I love programming, especially Java :3.
 
-I'm 15 years old and my focus is to study as much as possible until I can get into college and start working :D.
+I'm 16 years old and my focus is to study as much as possible until I can get into college and start working :D.
 
 Brith: 04/26/2010
 
